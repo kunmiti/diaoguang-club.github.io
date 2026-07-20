@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>作品 · 雕光摄影</title>
+  <meta name="description" content="雕光摄影摄影社团作品集。" />
+  <link rel="icon" type="image/jpeg" href="assets/logo.jpg" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="雕光摄影 首页">
+      <img class="logo-img" src="assets/logo.jpg" alt="雕光摄影 印章 logo" />
+      <span class="logo-text">雕光摄影</span>
+    </a>
+    <nav class="nav" aria-label="主导航">
+      <a href="index.html">首页</a>
+      <span class="nav-divider"></span>
+      <a href="works.html">作品</a>
+      <span class="nav-divider"></span>
+      <a href="about.html">关于</a>
+      <span class="nav-divider"></span>
+      <a href="contact.html">联系</a>
+    </nav>
+  </header>
+
+  <main class="page container">
+    <div class="section-head">
+      <h2>全部作品</h2>
+      <span class="count" id="works-total">加载中…</span>
+    </div>
+
+    <div class="works-overview" id="works-overview"></div>
+
+    <div id="works-groups">
+      <!-- 各比例分组由 js/main.js 从 works_manifest.json 动态渲染 -->
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <span class="brand-mark">雕光摄影</span>
+      <span>© 2026 雕光摄影摄影社团 · 以光为笔，雕琢瞬间</span>
+    </div>
+  </footer>
+
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="作品预览">
+    <div class="lightbox-inner">
+      <button class="lightbox-close" id="lb-close" type="button" aria-label="关闭预览">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+      <div class="lightbox-img" id="lb-img">
+        <img class="lightbox-photo" id="lb-img-el" src="" alt="" />
+      </div>
+      <div class="lightbox-cap"><span id="lb-title">作品</span><span id="lb-sub" style="color:var(--text-muted);font-size:13px;letter-spacing:1px;">预览</span></div>
+    </div>
+  </div>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
