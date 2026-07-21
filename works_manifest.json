@@ -1,5 +1,5 @@
 {
-  "total": 64,
+  "total": 62,
   "groups": {
     "3x2": {
       "ratio": "3:2",
@@ -47,7 +47,7 @@
         },
         {
           "file": "assets/works/3x2/微信图片_20260720174021_138_28.jpg",
-          "title": "作品54",
+          "title": "作品52",
           "ratio": "3:2",
           "width": 1616,
           "height": 1080,
@@ -55,7 +55,7 @@
         },
         {
           "file": "assets/works/3x2/微信图片_20260720174024_139_28.jpg",
-          "title": "作品55",
+          "title": "作品53",
           "ratio": "3:2",
           "width": 5817,
           "height": 3878,
@@ -63,7 +63,7 @@
         },
         {
           "file": "assets/works/3x2/微信图片_20260720174025_140_28.jpg",
-          "title": "作品56",
+          "title": "作品54",
           "ratio": "3:2",
           "width": 1616,
           "height": 1080,
@@ -71,7 +71,7 @@
         },
         {
           "file": "assets/works/3x2/微信图片_20260720174026_141_28.jpg",
-          "title": "作品57",
+          "title": "作品55",
           "ratio": "3:2",
           "width": 1616,
           "height": 1080,
@@ -79,7 +79,7 @@
         },
         {
           "file": "assets/works/3x2/微信图片_20260720174029_143_28.jpg",
-          "title": "作品59",
+          "title": "作品57",
           "ratio": "3:2",
           "width": 1616,
           "height": 1080,
@@ -87,7 +87,7 @@
         },
         {
           "file": "assets/works/3x2/微信图片_20260720174031_145_28.jpg",
-          "title": "作品61",
+          "title": "作品59",
           "ratio": "3:2",
           "width": 1616,
           "height": 1080,
@@ -95,7 +95,7 @@
         },
         {
           "file": "assets/works/3x2/微信图片_20260720174131_147_28.jpg",
-          "title": "作品63",
+          "title": "作品61",
           "ratio": "3:2",
           "width": 6000,
           "height": 4000,
@@ -141,7 +141,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173203_115_28.jpg",
-          "title": "作品31",
+          "title": "作品30",
           "ratio": "4:3",
           "width": 4096,
           "height": 3072,
@@ -149,7 +149,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173405_117_28.jpg",
-          "title": "作品33",
+          "title": "作品32",
           "ratio": "4:3",
           "width": 4096,
           "height": 3072,
@@ -157,7 +157,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173717_123_28.jpg",
-          "title": "作品39",
+          "title": "作品37",
           "ratio": "4:3",
           "width": 1255,
           "height": 919,
@@ -165,7 +165,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173720_126_28.jpg",
-          "title": "作品42",
+          "title": "作品40",
           "ratio": "4:3",
           "width": 1256,
           "height": 930,
@@ -173,7 +173,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173721_127_28.jpg",
-          "title": "作品43",
+          "title": "作品41",
           "ratio": "4:3",
           "width": 1256,
           "height": 913,
@@ -181,7 +181,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173722_128_28.jpg",
-          "title": "作品44",
+          "title": "作品42",
           "ratio": "4:3",
           "width": 1255,
           "height": 921,
@@ -189,7 +189,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173736_134_28.jpg",
-          "title": "作品50",
+          "title": "作品48",
           "ratio": "4:3",
           "width": 1440,
           "height": 1080,
@@ -197,7 +197,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173749_135_28.jpg",
-          "title": "作品51",
+          "title": "作品49",
           "ratio": "4:3",
           "width": 1170,
           "height": 858,
@@ -205,7 +205,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720173825_137_28.jpg",
-          "title": "作品53",
+          "title": "作品51",
           "ratio": "4:3",
           "width": 1440,
           "height": 1080,
@@ -213,7 +213,7 @@
         },
         {
           "file": "assets/works/4x3/微信图片_20260720174028_142_28.jpg",
-          "title": "作品58",
+          "title": "作品56",
           "ratio": "4:3",
           "width": 4592,
           "height": 3448,
@@ -275,7 +275,7 @@
         },
         {
           "file": "assets/works/2x3/微信图片_20260720173202_114_28.jpg",
-          "title": "作品30",
+          "title": "作品29",
           "ratio": "2:3",
           "width": 4128,
           "height": 6192,
@@ -319,7 +319,7 @@
         },
         {
           "file": "assets/works/4x5/微信图片_20260720174030_144_28.jpg",
-          "title": "作品60",
+          "title": "作品58",
           "ratio": "4:5",
           "width": 1184,
           "height": 1460,
@@ -363,7 +363,7 @@
         },
         {
           "file": "assets/works/16x9/微信图片_20260720173408_119_28.jpg",
-          "title": "作品35",
+          "title": "作品34",
           "ratio": "16:9",
           "width": 4096,
           "height": 2304,
@@ -371,7 +371,7 @@
         },
         {
           "file": "assets/works/16x9/微信图片_20260720174032_146_28.jpg",
-          "title": "作品62",
+          "title": "作品60",
           "ratio": "16:9",
           "width": 1616,
           "height": 909,
@@ -393,7 +393,7 @@
         },
         {
           "file": "assets/works/10x16/微信图片_20260720173757_136_28.jpg",
-          "title": "作品52",
+          "title": "作品50",
           "ratio": "10:16",
           "width": 840,
           "height": 1366,
@@ -403,7 +403,7 @@
     },
     "3x4": {
       "ratio": "3:4",
-      "count": 17,
+      "count": 15,
       "items": [
         {
           "file": "assets/works/3x4/微信图片_20260720172536_105_28.jpg",
@@ -430,16 +430,8 @@
           "original": "works/3x4/微信图片_20260720173106_109_28.jpg"
         },
         {
-          "file": "assets/works/3x4/微信图片_20260720173110_110_28.jpg",
-          "title": "作品26",
-          "ratio": "3:4",
-          "width": 6048,
-          "height": 8064,
-          "original": "works/3x4/微信图片_20260720173110_110_28.jpg"
-        },
-        {
           "file": "assets/works/3x4/微信图片_20260720173111_111_28.jpg",
-          "title": "作品27",
+          "title": "作品26",
           "ratio": "3:4",
           "width": 3072,
           "height": 4096,
@@ -447,7 +439,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173113_112_28.jpg",
-          "title": "作品28",
+          "title": "作品27",
           "ratio": "3:4",
           "width": 3072,
           "height": 4096,
@@ -455,7 +447,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173115_113_28.jpg",
-          "title": "作品29",
+          "title": "作品28",
           "ratio": "3:4",
           "width": 1255,
           "height": 1660,
@@ -463,7 +455,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173403_116_28.jpg",
-          "title": "作品32",
+          "title": "作品31",
           "ratio": "3:4",
           "width": 2042,
           "height": 2712,
@@ -471,23 +463,15 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173407_118_28.jpg",
-          "title": "作品34",
+          "title": "作品33",
           "ratio": "3:4",
           "width": 3072,
           "height": 4096,
           "original": "works/3x4/微信图片_20260720173407_118_28.jpg"
         },
         {
-          "file": "assets/works/3x4/微信图片_20260720173412_121_28.jpg",
-          "title": "作品37",
-          "ratio": "3:4",
-          "width": 3072,
-          "height": 4096,
-          "original": "works/3x4/微信图片_20260720173412_121_28.jpg"
-        },
-        {
           "file": "assets/works/3x4/微信图片_20260720173413_122_28.jpg",
-          "title": "作品38",
+          "title": "作品36",
           "ratio": "3:4",
           "width": 3024,
           "height": 4032,
@@ -495,7 +479,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173718_124_28.jpg",
-          "title": "作品40",
+          "title": "作品38",
           "ratio": "3:4",
           "width": 1255,
           "height": 1657,
@@ -503,7 +487,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173719_125_28.jpg",
-          "title": "作品41",
+          "title": "作品39",
           "ratio": "3:4",
           "width": 1255,
           "height": 1665,
@@ -511,7 +495,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173723_129_28.jpg",
-          "title": "作品45",
+          "title": "作品43",
           "ratio": "3:4",
           "width": 1255,
           "height": 1649,
@@ -519,7 +503,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173724_130_28.jpg",
-          "title": "作品46",
+          "title": "作品44",
           "ratio": "3:4",
           "width": 1256,
           "height": 1657,
@@ -527,7 +511,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173726_132_28.jpg",
-          "title": "作品48",
+          "title": "作品46",
           "ratio": "3:4",
           "width": 1255,
           "height": 1667,
@@ -535,7 +519,7 @@
         },
         {
           "file": "assets/works/3x4/微信图片_20260720173727_133_28.jpg",
-          "title": "作品49",
+          "title": "作品47",
           "ratio": "3:4",
           "width": 1255,
           "height": 1654,
@@ -549,7 +533,7 @@
       "items": [
         {
           "file": "assets/works/9x16/微信图片_20260720173410_120_28.jpg",
-          "title": "作品36",
+          "title": "作品35",
           "ratio": "9:16",
           "width": 2304,
           "height": 4096,
@@ -563,7 +547,7 @@
       "items": [
         {
           "file": "assets/works/5x4/微信图片_20260720173725_131_28.jpg",
-          "title": "作品47",
+          "title": "作品45",
           "ratio": "5:4",
           "width": 1255,
           "height": 1035,
@@ -577,7 +561,7 @@
       "items": [
         {
           "file": "assets/works/6639x3061/微信图片_20260720174134_148_28.jpg",
-          "title": "作品64",
+          "title": "作品62",
           "ratio": "6639:3061",
           "width": 6639,
           "height": 3061,
@@ -788,16 +772,8 @@
       "original": "works/3x4/微信图片_20260720173106_109_28.jpg"
     },
     {
-      "file": "assets/works/3x4/微信图片_20260720173110_110_28.jpg",
-      "title": "作品26",
-      "ratio": "3:4",
-      "width": 6048,
-      "height": 8064,
-      "original": "works/3x4/微信图片_20260720173110_110_28.jpg"
-    },
-    {
       "file": "assets/works/3x4/微信图片_20260720173111_111_28.jpg",
-      "title": "作品27",
+      "title": "作品26",
       "ratio": "3:4",
       "width": 3072,
       "height": 4096,
@@ -805,7 +781,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173113_112_28.jpg",
-      "title": "作品28",
+      "title": "作品27",
       "ratio": "3:4",
       "width": 3072,
       "height": 4096,
@@ -813,7 +789,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173115_113_28.jpg",
-      "title": "作品29",
+      "title": "作品28",
       "ratio": "3:4",
       "width": 1255,
       "height": 1660,
@@ -821,7 +797,7 @@
     },
     {
       "file": "assets/works/2x3/微信图片_20260720173202_114_28.jpg",
-      "title": "作品30",
+      "title": "作品29",
       "ratio": "2:3",
       "width": 4128,
       "height": 6192,
@@ -829,7 +805,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173203_115_28.jpg",
-      "title": "作品31",
+      "title": "作品30",
       "ratio": "4:3",
       "width": 4096,
       "height": 3072,
@@ -837,7 +813,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173403_116_28.jpg",
-      "title": "作品32",
+      "title": "作品31",
       "ratio": "3:4",
       "width": 2042,
       "height": 2712,
@@ -845,7 +821,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173405_117_28.jpg",
-      "title": "作品33",
+      "title": "作品32",
       "ratio": "4:3",
       "width": 4096,
       "height": 3072,
@@ -853,7 +829,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173407_118_28.jpg",
-      "title": "作品34",
+      "title": "作品33",
       "ratio": "3:4",
       "width": 3072,
       "height": 4096,
@@ -861,7 +837,7 @@
     },
     {
       "file": "assets/works/16x9/微信图片_20260720173408_119_28.jpg",
-      "title": "作品35",
+      "title": "作品34",
       "ratio": "16:9",
       "width": 4096,
       "height": 2304,
@@ -869,23 +845,15 @@
     },
     {
       "file": "assets/works/9x16/微信图片_20260720173410_120_28.jpg",
-      "title": "作品36",
+      "title": "作品35",
       "ratio": "9:16",
       "width": 2304,
       "height": 4096,
       "original": "works/9x16/微信图片_20260720173410_120_28.jpg"
     },
     {
-      "file": "assets/works/3x4/微信图片_20260720173412_121_28.jpg",
-      "title": "作品37",
-      "ratio": "3:4",
-      "width": 3072,
-      "height": 4096,
-      "original": "works/3x4/微信图片_20260720173412_121_28.jpg"
-    },
-    {
       "file": "assets/works/3x4/微信图片_20260720173413_122_28.jpg",
-      "title": "作品38",
+      "title": "作品36",
       "ratio": "3:4",
       "width": 3024,
       "height": 4032,
@@ -893,7 +861,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173717_123_28.jpg",
-      "title": "作品39",
+      "title": "作品37",
       "ratio": "4:3",
       "width": 1255,
       "height": 919,
@@ -901,7 +869,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173718_124_28.jpg",
-      "title": "作品40",
+      "title": "作品38",
       "ratio": "3:4",
       "width": 1255,
       "height": 1657,
@@ -909,7 +877,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173719_125_28.jpg",
-      "title": "作品41",
+      "title": "作品39",
       "ratio": "3:4",
       "width": 1255,
       "height": 1665,
@@ -917,7 +885,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173720_126_28.jpg",
-      "title": "作品42",
+      "title": "作品40",
       "ratio": "4:3",
       "width": 1256,
       "height": 930,
@@ -925,7 +893,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173721_127_28.jpg",
-      "title": "作品43",
+      "title": "作品41",
       "ratio": "4:3",
       "width": 1256,
       "height": 913,
@@ -933,7 +901,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173722_128_28.jpg",
-      "title": "作品44",
+      "title": "作品42",
       "ratio": "4:3",
       "width": 1255,
       "height": 921,
@@ -941,7 +909,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173723_129_28.jpg",
-      "title": "作品45",
+      "title": "作品43",
       "ratio": "3:4",
       "width": 1255,
       "height": 1649,
@@ -949,7 +917,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173724_130_28.jpg",
-      "title": "作品46",
+      "title": "作品44",
       "ratio": "3:4",
       "width": 1256,
       "height": 1657,
@@ -957,7 +925,7 @@
     },
     {
       "file": "assets/works/5x4/微信图片_20260720173725_131_28.jpg",
-      "title": "作品47",
+      "title": "作品45",
       "ratio": "5:4",
       "width": 1255,
       "height": 1035,
@@ -965,7 +933,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173726_132_28.jpg",
-      "title": "作品48",
+      "title": "作品46",
       "ratio": "3:4",
       "width": 1255,
       "height": 1667,
@@ -973,7 +941,7 @@
     },
     {
       "file": "assets/works/3x4/微信图片_20260720173727_133_28.jpg",
-      "title": "作品49",
+      "title": "作品47",
       "ratio": "3:4",
       "width": 1255,
       "height": 1654,
@@ -981,7 +949,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173736_134_28.jpg",
-      "title": "作品50",
+      "title": "作品48",
       "ratio": "4:3",
       "width": 1440,
       "height": 1080,
@@ -989,7 +957,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173749_135_28.jpg",
-      "title": "作品51",
+      "title": "作品49",
       "ratio": "4:3",
       "width": 1170,
       "height": 858,
@@ -997,7 +965,7 @@
     },
     {
       "file": "assets/works/10x16/微信图片_20260720173757_136_28.jpg",
-      "title": "作品52",
+      "title": "作品50",
       "ratio": "10:16",
       "width": 840,
       "height": 1366,
@@ -1005,7 +973,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720173825_137_28.jpg",
-      "title": "作品53",
+      "title": "作品51",
       "ratio": "4:3",
       "width": 1440,
       "height": 1080,
@@ -1013,7 +981,7 @@
     },
     {
       "file": "assets/works/3x2/微信图片_20260720174021_138_28.jpg",
-      "title": "作品54",
+      "title": "作品52",
       "ratio": "3:2",
       "width": 1616,
       "height": 1080,
@@ -1021,7 +989,7 @@
     },
     {
       "file": "assets/works/3x2/微信图片_20260720174024_139_28.jpg",
-      "title": "作品55",
+      "title": "作品53",
       "ratio": "3:2",
       "width": 5817,
       "height": 3878,
@@ -1029,7 +997,7 @@
     },
     {
       "file": "assets/works/3x2/微信图片_20260720174025_140_28.jpg",
-      "title": "作品56",
+      "title": "作品54",
       "ratio": "3:2",
       "width": 1616,
       "height": 1080,
@@ -1037,7 +1005,7 @@
     },
     {
       "file": "assets/works/3x2/微信图片_20260720174026_141_28.jpg",
-      "title": "作品57",
+      "title": "作品55",
       "ratio": "3:2",
       "width": 1616,
       "height": 1080,
@@ -1045,7 +1013,7 @@
     },
     {
       "file": "assets/works/4x3/微信图片_20260720174028_142_28.jpg",
-      "title": "作品58",
+      "title": "作品56",
       "ratio": "4:3",
       "width": 4592,
       "height": 3448,
@@ -1053,7 +1021,7 @@
     },
     {
       "file": "assets/works/3x2/微信图片_20260720174029_143_28.jpg",
-      "title": "作品59",
+      "title": "作品57",
       "ratio": "3:2",
       "width": 1616,
       "height": 1080,
@@ -1061,7 +1029,7 @@
     },
     {
       "file": "assets/works/4x5/微信图片_20260720174030_144_28.jpg",
-      "title": "作品60",
+      "title": "作品58",
       "ratio": "4:5",
       "width": 1184,
       "height": 1460,
@@ -1069,7 +1037,7 @@
     },
     {
       "file": "assets/works/3x2/微信图片_20260720174031_145_28.jpg",
-      "title": "作品61",
+      "title": "作品59",
       "ratio": "3:2",
       "width": 1616,
       "height": 1080,
@@ -1077,7 +1045,7 @@
     },
     {
       "file": "assets/works/16x9/微信图片_20260720174032_146_28.jpg",
-      "title": "作品62",
+      "title": "作品60",
       "ratio": "16:9",
       "width": 1616,
       "height": 909,
@@ -1085,7 +1053,7 @@
     },
     {
       "file": "assets/works/3x2/微信图片_20260720174131_147_28.jpg",
-      "title": "作品63",
+      "title": "作品61",
       "ratio": "3:2",
       "width": 6000,
       "height": 4000,
@@ -1093,7 +1061,7 @@
     },
     {
       "file": "assets/works/6639x3061/微信图片_20260720174134_148_28.jpg",
-      "title": "作品64",
+      "title": "作品62",
       "ratio": "6639:3061",
       "width": 6639,
       "height": 3061,
